@@ -39,4 +39,4 @@ Badx Tools Untuk Keperluan Lookup Website
 
 <p>Untuk admin finder menggunakan multi path, Kalian bisa menambahkan pathnya di source code nya, Edit edit aja. Saya open source kan.</p>
 
-<h4>Error?, Bug?, <br> Contact Saya : <br> <a href="https://www.facebook.com/putragilanq" target="_blank">Facebook</a></h4>
+<h4>Error?, Bug?. <br> Contact Saya : <br><br> <a href="https://www.facebook.com/putragilanq" target="_blank">Facebook</a><br>Semoga Bermanfaat, Terimakasih.</h4>
