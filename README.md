@@ -9,6 +9,7 @@ Badx Tools Untuk Keperluan Lookup Website
 - $pip install socket
 - $git clone https://github.com/putragilanq/Badx
 - $cd Badx
+- $cd unminify-code
 - $python main.py
 
 # Tampilan Main
